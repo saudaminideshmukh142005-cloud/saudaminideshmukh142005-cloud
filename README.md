@@ -1,11 +1,11 @@
 # Hello 👋, I'm Saudamini Deshmukh
 
-### 🧠 Machine Learning | Deep Learning | MERN Stack | Data Analysis & Research
-I’m interested in **Machine Learning, Deep Learning, and Neural Networks**, along with building applications using the **MERN stack**.
+I’m interested in **Machine Learning, Deep Learning, Neural Networks, and MERN Stack development**.
 
-My interest goes beyond simply building models. I enjoy exploring what happens inside the data and the model: how data quality affects predictions, how patterns can be discovered, how models can be interpreted, and why a model performs the way it does.
+My curiosity goes beyond simply building models. I enjoy understanding **how data and models behave**—how messy, incomplete, and inconsistent real-world data can affect predictions, how meaningful patterns can be discovered, and how models can be interpreted to understand *why* they make certain predictions.
 
-I enjoy exploring how **messy and imperfect real-world data** can be cleaned, analyzed, interpreted, and transformed into meaningful insights.
+I’m particularly interested in **data-driven analysis, model interpretability, experimentation, and research-oriented problem solving**, with the goal of turning complex data into meaningful insights and practical applications.
+
 
 ### 🔍 Areas of Interest
 
