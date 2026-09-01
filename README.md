@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello 👋, I'm Saudamini Deshmukh
 
-<!--
-**saudaminideshmukh142005-cloud/saudaminideshmukh142005-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Machine Learning | Deep Learning | MERN Stack | Data Analysis & Research
 
-Here are some ideas to get you started:
+I’m interested in **Machine Learning, Deep Learning, and Neural Networks**, along with building applications using the **MERN stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring how **messy and imperfect real-world data** can be cleaned, analyzed, interpreted, and transformed into meaningful insights.
+
+### 🔍 Areas of Interest
+
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Neural Networks
+* 📊 Data Analysis & Data Interpretation
+* 🧹 Real-world Messy Data & Data Quality
+* 🔬 Research-oriented experimentation
+* 🌐 MERN Stack Development
+* 📈 Model Evaluation & Interpretability
+
+### 🚀 Currently Learning
+
+* Advanced Machine Learning
+* Deep Neural Networks
+* Data preprocessing and feature engineering
+* Model interpretability
+* Research-oriented ML experimentation
