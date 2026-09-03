@@ -4,7 +4,7 @@ I’m interested in **Machine Learning, Deep Learning, Neural Networks, and MERN
 
 My curiosity goes beyond simply building models. I enjoy understanding **how data and models behave**—how messy, incomplete, and inconsistent real-world data can affect predictions, how meaningful patterns can be discovered, and how models can be interpreted to understand *why* they make certain predictions.
 
-I’m particularly interested in **data-driven analysis, model interpretability, experimentation, and research-oriented problem solving**, with the goal of turning complex data into meaningful insights and practical applications.
+
 ---
 
 
