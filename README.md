@@ -53,7 +53,7 @@ I’m particularly interested in **data-driven analysis, model interpretability,
 * 🧹 Real-world Messy Data & Data Quality
 * 🔬 Research-oriented experimentation
 * 🌐 MERN Stack Development
-* 📈 Model Evaluation & Interpretability
+
   ---
 
 ## 🚀 Currently Learning
