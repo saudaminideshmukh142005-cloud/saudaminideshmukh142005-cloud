@@ -43,7 +43,7 @@ I’m particularly interested in **data-driven analysis, model interpretability,
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
+---
 
 ### 🔍 Areas of Interest
 
@@ -54,6 +54,7 @@ I’m particularly interested in **data-driven analysis, model interpretability,
 * 🔬 Research-oriented experimentation
 * 🌐 MERN Stack Development
 * 📈 Model Evaluation & Interpretability
+  ---
 
 ### 🚀 Currently Learning
 
